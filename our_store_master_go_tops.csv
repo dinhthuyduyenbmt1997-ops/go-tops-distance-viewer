@@ -1,0 +1,53 @@
+﻿StoreID,Area,Group,Province,Ward / Commune,Store,Brand,Latitude,Longitude,Address label,Current Zone Competitor FMCG-HBA,Status
+101,South,HCM,Dong Nai,Long Hung,GO! Dong Nai,GO!,10.90584886600004,106.8503987830001,"Long Hung, Dong Nai, Việt Nam",Coop HCM; Lotte HCM; BHX HCM; Mega HCM; MAXIDI DNI,OK
+102,South,HCM,Ho Chi Minh,An Lac,GO! An Lac,GO!,10.73074800000006,106.6034143000001,"An Lac, Ho Chi Minh, Việt Nam",Coop HCM; BHX HCM; Mega HCM; Aeon HCM,OK
+103,South,SOUTH PROVINCE,Ho Chi Minh,Hoa Hung,GO! Mien Dong,GO!,10.77825500000006,106.6655383020001,"Hoa Hung, Ho Chi Minh, Việt Nam",Coop HCM; Lotte HCM; BHX HCM,OK
+104,North,HANOI,Ha Noi,Yen Hoa,GO! Thang Long,GO!,21.00714764100007,105.793414549,"Yen Hoa, Ha Noi, Việt Nam",Lotte HN; Winmart HN; Mega HN; BHX HN,OK
+106,North,NORTH PROVINCE,Hai Phong,Gia Vien,GO! Hai Phong,GO!,20.84525397100003,106.707433709,"Gia Vien, Hai Phong, Việt Nam",Winmart HN; Mega HN; Coop HN; Aeon HN; BHX THO,OK
+107,Center,CENTER,Da Nang,Nam Phuoc,GO! Da Nang,GO!,16.06701668800002,108.213396377,"Nam Phuoc, Da Nang, Việt Nam",Coop NT; Lotte NT; Winmart NT; Mega NT; Aeon HCM; BHX BMT,OK
+108,South,HCM,Ho Chi Minh,Hanh Thong,GO! Go Vap,GO!,10.82549785200007,106.680165618,"Hanh Thong, Ho Chi Minh, Việt Nam",Coop HCM; Lotte HCM; BHX HCM; Emart HCM,OK
+109,Center,CENTER,Hue,Thuan Hoa,GO!  Hue,GO!,16.46017954500007,107.5991235230001,"Thuan Hoa, Hue, Việt Nam",Coop NT; BHX BMT; Aeon HCM,OK
+111,South,HCM,Ho Chi Minh,Phu Thanh,GO! Phu Thanh,GO!,10.78000519700004,106.631153613,"Phu Thanh, Ho Chi Minh, Việt Nam",Coop HCM; BHX HCM; Aeon HCM; Emart HCM,OK
+112,Center,CENTER,Nghe An,Thanh Vinh,GO! Vinh,GO!,18.66629742800006,105.674757448,"Thanh Vinh, Nghe An, Việt Nam",Lotte HN; Winmart HN; Mega HN,OK
+113,North,HANOI,Phu Tho,Vinh Phuc,GO! Vinh Phuc,GO!,21.29399112800007,105.6298882770001,"Vinh Phuc, Phu Tho, Việt Nam",Coop HN; BHX HN,OK
+114,North,NORTH PROVINCE,Ninh Binh,"Loc Hoa, Nam Dinh",GO! Nam Dinh,GO!,20.43811495600005,106.152474049,"Loc Hoa, Nam Dinh, Ninh Binh, Việt Nam",Coop HN; BHX THO,OK
+115,South,HCM,Dong Nai,Tam Hiep,GO! Tan Hiep,GO!,10.96651757700005,106.854743526,"Tam Hiep, Dong Nai, Việt Nam",Coop HCM; Lotte HCM; BHX HCM; Mega HCM; MAXIDI DNI,OK
+116,North,HANOI,Ha Noi,Viet Hung,GO! Long Bien,GO!,21.05078721300004,105.8931744330001,"Viet Hung, Ha Noi, Việt Nam",Winmart HN; Aeon HN; BHX HN,OK
+117,North,NORTH PROVINCE,Hai Phong,Hai Duong,GO! Hai Duong,GO!,20.94676890400007,106.346194665,"Hai Duong, Hai Phong, Việt Nam",Winmart HN; BHX THO,OK
+118,North,NORTH PROVINCE,Thanh Hoa,Hac Thanh,GO! Thanh Hoa,GO!,19.80562219300003,105.8022837070001,"Hac Thanh, Thanh Hoa, Việt Nam",Coop HN; Winmart HN; BHX THO; Coop THO,OK
+120,South,SOUTH PROVINCE,Can Tho,Hung Phu,GO! Can Tho,GO!,10.01436525500003,105.7848188040001,"Hung Phu, Can Tho, Việt Nam",Coop HCM; Lotte HCM; BHX HCM; Mega HCM,OK
+121,South,HCM,Ho Chi Minh,Thu Dau Mot,GO! Binh Duong,GO!,10.98691042600007,106.664316334,"Thu Dau Mot, Ho Chi Minh, Việt Nam",Coop HCM; BHX HCM; Mega HCM; MAXIDI DNI,OK
+122,South,HCM,Ho Chi Minh,Tay Thanh,GO! Truong Chinh,GO!,10.80639610300005,106.6343675480001,"Tay Thanh, Ho Chi Minh, Việt Nam",Coop HCM; Lotte HCM; BHX HCM; Mega HCM; Aeon HCM; Emart HCM,OK
+123,South,HCM,Ho Chi Minh,Dong Hoa,GO! Di An,GO!,10.88888333600005,106.7760928860001,"Dong Hoa, Ho Chi Minh, Việt Nam",Coop HCM; Lotte HCM; BHX HCM; MAXIDI DNI,OK
+124,North,HANOI,Phu Tho,Thanh Mieu,GO! Viet Tri,GO!,21.30690500500003,105.4319514420001,"Thanh Mieu, Phu Tho, Việt Nam",Coop HN; Winmart HN,OK
+125,North,NORTH PROVINCE,Ninh Binh,Ninh Phong,GO!  Ninh Binh,GO!,20.24236040700004,106.00437156,"Ninh Phong, Ninh Binh, Việt Nam",Winmart HN; BHX THO; BHX THO,OK
+126,Center,CENTER,Lam Dong,Xuan Huong - Da Lat,GO! Da Lat,GO!,11.93843623000004,108.445404894,"Xuan Huong - Da Lat, Lam Dong, Việt Nam",Coop BMT; BHX BMT,OK
+128,North,NORTH PROVINCE,Quang Ninh,Ha Long,GO! Ha Long,GO!,20.94242678800003,107.1109173010001,"Ha Long, Quang Ninh, Việt Nam",Coop HN; Winmart HN; Mega HN; BHX THO,OK
+129,Center,CENTER,Gia Lai,Quy Nhon Nam,GO! Quy Nhon,GO!,13.75461536600005,109.207717066,"Quy Nhon Nam, Gia Lai, Việt Nam",Coop NT; Winmart NT; Mega NT,OK
+130,Center,CENTER,Khanh Hoa,Tay Nha Trang,GO! Nha Trang,GO!,12.25591969100003,109.1704419430001,"Tay Nha Trang, Khanh Hoa, Việt Nam",Coop NT; Lotte NT; BHX BMT; Mega NT,OK
+131,North,HANOI,Bac Ninh,Tan Tien,GO! Bac Giang,GO!,21.26678025000007,106.2083143,"Tan Tien, Bac Ninh, Việt Nam","Coop HN, Lotte HN",OK
+133,South,SOUTH PROVINCE,Ho Chi Minh,Tan Phu,GO! Nguyen Thi Thap,GO!,10.73748178000005,106.7252881860001,"Tan Phu, Ho Chi Minh, Việt Nam",Coop HCM; Lotte HCM; BHX HCM; Aeon HCM,OK
+137,South,SOUTH PROVINCE,Dong Thap,Dao Thanh,GO! My Tho,GO!,10.35881970400004,106.340850801,"Dao Thanh, Dong Thap, Việt Nam",Coop BTRE; BHX BTRE,OK
+139,Center,CENTER,Quang Ngai,Cam Thanh,GO! Quang Ngai,GO!,15.09944815300003,108.8177885890001,"Cam Thanh, Quang Ngai, Việt Nam",Coop NT; BHX BMT,OK
+140,South,SOUTH PROVINCE,Vinh Long,Nguyet Hoa,GO! Tra Vinh,GO!,9.923442516000023,106.3272550930001,"Nguyet Hoa, Vinh Long, Việt Nam",Coop BTRE; BHX BTRE,OK
+141,Center,CENTER,Dak Lak,Thanh Nhat,GO! Buon Ma Thuot,GO!,12.68330239100004,108.0181361940001,"Thanh Nhat, Dak Lak, Việt Nam",Coop BMT; Winmart BMT; BHX BMT; Mega BMT,OK
+142,South,SOUTH PROVINCE,Vinh Long,Son Dong,GO! Ben Tre,GO!,10.25431889400005,106.3599933820001,"Son Dong, Vinh Long, Việt Nam",Coop BTRE; BHX BTRE,OK
+143,South,SOUTH PROVINCE,Ho Chi Minh,Ba Ria,GO! Ba Ria,GO!,10.492166,107.168567,"Ba Ria, Ho Chi Minh, Việt Nam",Coop BR; BHX BR; Mega BR,OK
+144,North,HANOI,Thai Nguyen,Tich Luong,GO! Thai Nguyen,GO!,21.57127288200007,105.8347884990001,"Tich Luong, Thai Nguyen, Việt Nam",Coop HN; Winmart TNN; Lan Chi; Minh Cau; BHX HN,OK
+145,North,NORTH PROVINCE,Hung Yen,Vu Phuc,GO! Thai Binh,GO!,20.4397315386832,106.321634007993,"Vu Phuc, Hung Yen, Việt Nam",Coop HN; Winmart HN; BHX THO,OK
+146,North,HANOI,Lao Cai,Cam Duong,GO! Lao Cai,GO!,22.4346457455456,104.01645622994,"Cam Duong, Lao Cai, Việt Nam",Coop HN; Winmart HN,OK
+151,North,HANOI,Ninh Binh,Ha Nam,GO! Ha Nam,GO!,20.551074,105.928096,"Ha Nam, Ninh Binh, Việt Nam",Coop HN; Winmart HN; BHX THO,OK
+152,South,SOUTH PROVINCE,Ca Mau,Bac Lieu,GO! Bac Lieu,GO!,9.29703,105.71801,"Bac Lieu, Ca Mau, Việt Nam",Coop BTRE; Winmart NT; BHX BTRE; Mega HCM; MAMASHOP Bac Lieu,OK
+153,Center,CENTER,Khanh Hoa,Phan Rang,GO! Ninh Thuan,GO!,11.57391,108.99389,"Phan Rang, Khanh Hoa, Việt Nam",Coop NT; Winmart NT; BHX BMT,OK
+154,North,NORTH PROVINCE,Hung Yen,Pho Hien,GO! Hung Yen,GO!,20.6552757074072,106.059717214706,"Pho Hien, Hung Yen, Việt Nam",Coop HN; Winmart HN; MAMASHOP HY,OK
+155,North,HANOI,Lao Cai,Yen Bai,GO! Yen Bai,GO!,21.7103727936799,104.891998303056,"Yen Bai, Lao Cai, Việt Nam",Coop HN; Winmart HN;  Minimart Dung Linh,OK
+157,North,HANOI,Ha Noi,O Dien,GO! Dan Phuong,GO!,21.095398,105.6869687,"O Dien, Ha Noi, Việt Nam",Coop HN; Winmart HN,OK
+110,North,TOPS MARKET HN,Ha Noi,Tu Liem,Tops The Garden,TOPS,21.01546529600006,105.7780957990001,"Tu Liem, Ha Noi, Việt Nam",Coop HN; Mega HN; BHX HN,OK
+127,South,TOPS MARKET HCM,Ho Chi Minh,Binh Trung,Tops An Phu,TOPS,10.80173148100005,106.7469053330001,"Binh Trung, Ho Chi Minh, Việt Nam",Coop HCM; Mega HCM,OK
+132,North,TOPS MARKET HN,Ha Noi,Ha Dong,Tops Ha Dong,TOPS,20.97876224700008,105.7854137830001,"Ha Dong, Ha Noi, Việt Nam",Coop HN; Mega HN; BHX HN,OK
+134,South,TOPS MARKET HCM,Ho Chi Minh,An Khanh,Tops Thao Dien,TOPS,10.80126038100008,106.7332346200001,"An Khanh, Ho Chi Minh, Việt Nam",Coop HCM; Winmart NT; BHX HCM,OK
+135,North,TOPS MARKET HN,Ha Noi,Phuong Liet,Tops Le Trong Tan,TOPS,21.00052141700007,105.8285757800001,"Phuong Liet, Ha Noi, Việt Nam",Coop HN; TDO HN,OK
+136,South,TOPS MARKET HCM,Ho Chi Minh,Tan Phu,Tops Au Co,TOPS,10.78955157000007,106.6400582050001,"Tan Phu, Ho Chi Minh, Việt Nam",Coop HCM; Lotte NT; BHX HCM,OK
+138,North,TOPS MARKET HN,Ha Noi,Thanh Liet,Tops Nguyen Xien,TOPS,20.98311630000006,105.8085815000001,"Thanh Liet, Ha Noi, Việt Nam",Coop HN; Winmart HN,OK
+147,South,TOPS MARKET HCM,Ho Chi Minh,Thu Duc,Tops Moon Light,TOPS,10.8445371559858,106.762882147303,"Thu Duc, Ho Chi Minh, Việt Nam",Coop HCM; Winmart NT; BHX HCM,OK
+150,North,TOPS MARKET HN,Ha Noi,Duong Hoi,Tops Park City,TOPS,20.96634,105.75613,"Duong Hoi, Ha Noi, Việt Nam",Coop HN; Winmart HN; BHX HN,OK
