@@ -7,7 +7,7 @@ import folium
 from streamlit_folium import st_folium
 
 APP_DIR = Path(__file__).resolve().parent
-MASTER_PATH = APP_DIR / "data" / "our_store_master_go_tops.csv"
+MASTER_PATH = APP_DIR / "our_store_master_go_tops.csv"
 OSRM_ROUTE_BASE = "https://router.project-osrm.org/route/v1/driving"
 HEADERS = {
     "User-Agent": "GO-TOPS-Distance-Viewer/1.0 (internal store distance viewer)"
